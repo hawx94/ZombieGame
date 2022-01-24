@@ -1,2 +1,2 @@
 # ZombieGame
-Apenas um pequena amostra de um jogo de zombie
+Primeiro jogo criado. Este game baseia-se em uma arena no qual se encontram os zombies, o player e duas armadilhas. o Objetivo do jogo é sobreviver ao maior numero de zombies os quais vao spanando de maneira aleatoria em locais determinado sendo que casa zombie também possui um velocidade aleatoria.Como já dito anteriormente é o meu primeiro jogo criado e tem como objetivo eu poder acompanhar o meu desenvolvimento.
